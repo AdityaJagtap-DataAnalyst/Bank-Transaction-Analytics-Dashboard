@@ -23,8 +23,7 @@ This dashboard converts raw banking data into actionable insights for decision-m
 ---
 
 ## 🔗 Live Dashboard Preview
-👉 **Power BI Service Link:**  
-https://app.powerbi.com/view?r=eyJrIjoiOTQyNjBkMzgtNjMwNi00ZDM0LTk4MTgtZDkyZTI1MTAzZmRiIiwidCI6IjdjNjZkNGIyLTVmY2QtNGRlYi1hMDQ4LTg1NGQ4ZWEyNDM3MSJ9
+👉 **[Click here to view the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTQyNjBkMzgtNjMwNi00ZDM0LTk4MTgtZDkyZTI1MTAzZmRiIiwidCI6IjdjNjZkNGIyLTVmY2QtNGRlYi1hMDQ4LTg1NGQ4ZWEyNDM3MSJ9)**
 
 ---
 
